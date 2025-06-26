@@ -26,4 +26,4 @@ This Power BI report is built to visualize and analyze sales order data across m
 - Excel (for data prep)
 
 ## 📬 Let’s Connect!
-Feel free to share your feedback or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/deemisofficial/).
+Feel free to share your feedback or connect with me on [LinkedIn](https://www.linkedin.com/in/deemisofficial/).
