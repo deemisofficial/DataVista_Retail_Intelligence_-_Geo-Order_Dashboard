@@ -17,7 +17,7 @@ This Power BI report is built to visualize and analyze sales order data across m
 - `SampleData.csv` – Sample dataset
 
 ## 📸 Preview
-![Dashboard Screenshot](screenshots/geo-dashboard.png)
+![Dashboard Screenshot](DataVista_Geo-Order_Dashboard.png)
 
 ## 💡 Tools Used
 - Power BI
